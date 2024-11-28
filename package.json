@@ -2,7 +2,7 @@
   "name": "patient-service",
   "version": "1.0.0",
   "description": "A simple Express API for managing patients",
-  "main": "index.js",
+  "main": "patient_app.js",
   "scripts": {
     "start": "node patient_app.js",
     "dev": "nodemon patient_app.js"
